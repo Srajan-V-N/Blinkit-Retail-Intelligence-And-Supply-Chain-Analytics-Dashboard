@@ -1,0 +1,269 @@
+product_id,product_name,category,stock_received,damaged_stock,damage_rate
+4452,Baby Wipes,Baby Care,705,302,inf
+6405,Baby Food,Baby Care,556,280,inf
+9436,Toothpaste,Personal Care,322,286,inf
+11422,Potatoes,Fruits & Vegetables,482,298,inf
+14145,Spinach,Fruits & Vegetables,542,292,inf
+15314,Cheese,Dairy & Breakfast,484,280,inf
+18035,Dish Soap,Household Care,501,304,inf
+26060,Vitamins,Pharmacy,735,304,inf
+33797,Pain Reliever,Pharmacy,718,300,inf
+33955,Frozen Pizza,Instant & Frozen Food,555,316,inf
+34186,Mangoes,Fruits & Vegetables,472,308,inf
+34200,Lotion,Personal Care,514,270,inf
+36412,Dish Soap,Household Care,440,282,inf
+39154,Mangoes,Fruits & Vegetables,528,318,inf
+41853,Curd,Dairy & Breakfast,478,312,inf
+51036,Baby Food,Baby Care,417,296,inf
+52729,Cat Food,Pet Care,755,264,inf
+53833,Rice,Grocery & Staples,523,326,inf
+56589,Vitamins,Pharmacy,750,304,inf
+57405,Baby Food,Baby Care,645,302,inf
+60619,Iced Tea,Cold Drinks & Juices,465,292,inf
+63769,Lotion,Personal Care,518,302,inf
+67197,Butter,Dairy & Breakfast,442,286,inf
+70969,Carrots,Fruits & Vegetables,507,326,inf
+77308,Onions,Fruits & Vegetables,559,288,inf
+82484,Baby Food,Baby Care,687,256,inf
+89084,Milk,Dairy & Breakfast,553,282,inf
+91670,Dish Soap,Household Care,458,296,inf
+94225,Toilet Cleaner,Household Care,480,298,inf
+107548,Cola,Cold Drinks & Juices,497,294,inf
+112390,Toothpaste,Personal Care,547,338,inf
+114414,Vitamins,Pharmacy,659,334,inf
+118820,Iced Tea,Cold Drinks & Juices,532,312,inf
+120385,Pet Treats,Pet Care,747,300,inf
+120532,Wheat Flour,Grocery & Staples,813,276,inf
+123983,Cough Syrup,Pharmacy,707,276,inf
+124290,Lotion,Personal Care,502,332,inf
+131136,Salt,Grocery & Staples,753,306,inf
+131748,Dog Food,Pet Care,692,302,inf
+131937,Frozen Pizza,Instant & Frozen Food,493,320,inf
+133542,Detergent,Household Care,327,296,inf
+136533,Eggs,Dairy & Breakfast,559,296,inf
+137909,Cough Syrup,Pharmacy,711,324,inf
+140154,Shampoo,Personal Care,529,290,inf
+140489,Soap,Personal Care,568,306,inf
+144124,Detergent,Household Care,498,288,inf
+146840,Bread,Dairy & Breakfast,507,306,inf
+153019,Onions,Fruits & Vegetables,526,310,inf
+154179,Pain Reliever,Pharmacy,624,332,inf
+171602,Cola,Cold Drinks & Juices,513,316,inf
+183929,Bread,Dairy & Breakfast,490,276,inf
+186168,Dog Food,Pet Care,673,354,inf
+187399,Frozen Pizza,Instant & Frozen Food,527,298,inf
+194682,Iced Tea,Cold Drinks & Juices,478,316,inf
+196719,Bananas,Fruits & Vegetables,527,318,inf
+217710,Eggs,Dairy & Breakfast,491,304,inf
+219598,Shampoo,Personal Care,470,282,inf
+222892,Tomatoes,Fruits & Vegetables,481,300,inf
+228286,Cola,Cold Drinks & Juices,494,274,inf
+237083,Cough Syrup,Pharmacy,662,276,inf
+240179,Cough Syrup,Pharmacy,767,298,inf
+243235,Cat Food,Pet Care,736,304,inf
+256051,Lotion,Personal Care,445,296,inf
+256783,Pet Treats,Pet Care,697,324,inf
+257719,Eggs,Dairy & Breakfast,536,308,inf
+264803,Vitamins,Pharmacy,700,292,inf
+272170,Ice Cream,Instant & Frozen Food,563,286,inf
+274207,Cough Syrup,Pharmacy,800,286,inf
+284460,Potatoes,Fruits & Vegetables,492,288,inf
+287070,Wheat Flour,Grocery & Staples,837,280,inf
+291238,Chocolates,Snacks & Munchies,485,328,inf
+298985,Vitamins,Pharmacy,689,238,inf
+300159,Cola,Cold Drinks & Juices,532,320,inf
+305754,Frozen Vegetables,Instant & Frozen Food,496,292,inf
+306177,Frozen Biryani,Instant & Frozen Food,533,244,inf
+313754,Biscuits,Snacks & Munchies,524,292,inf
+317242,Pulses,Grocery & Staples,498,318,inf
+319388,Orange Juice,Cold Drinks & Juices,543,334,inf
+324809,Bread,Dairy & Breakfast,501,268,inf
+327290,Sugar,Grocery & Staples,521,264,inf
+328457,Mango Drink,Cold Drinks & Juices,539,298,inf
+329351,Cheese,Dairy & Breakfast,413,276,inf
+336847,Toilet Cleaner,Household Care,444,250,inf
+337168,Eggs,Dairy & Breakfast,488,308,inf
+349294,Onions,Fruits & Vegetables,469,302,inf
+354409,Pulses,Grocery & Staples,779,292,inf
+361361,Biscuits,Snacks & Munchies,499,314,inf
+365132,Instant Noodles,Instant & Frozen Food,544,284,inf
+365133,Dish Soap,Household Care,342,294,inf
+366066,Soap,Personal Care,544,322,inf
+367391,Baby Wipes,Baby Care,545,300,inf
+373536,Dog Food,Pet Care,674,308,inf
+376447,Butter,Dairy & Breakfast,530,280,inf
+378230,Nuts,Snacks & Munchies,514,284,inf
+378287,Lemonade,Cold Drinks & Juices,498,314,inf
+378676,Orange Juice,Cold Drinks & Juices,504,272,inf
+382511,Butter,Dairy & Breakfast,491,316,inf
+385113,Lotion,Personal Care,424,302,inf
+397973,Bananas,Fruits & Vegetables,492,310,inf
+398340,Instant Noodles,Instant & Frozen Food,480,304,inf
+425341,Pet Treats,Pet Care,720,290,inf
+432617,Baby Wipes,Baby Care,726,272,inf
+433521,Diapers,Baby Care,581,308,inf
+435929,Toilet Cleaner,Household Care,490,330,inf
+440875,Baby Wipes,Baby Care,711,308,inf
+444361,Pain Reliever,Pharmacy,697,296,inf
+448752,Toilet Cleaner,Household Care,292,300,inf
+449106,Soap,Personal Care,561,336,inf
+451812,Pain Reliever,Pharmacy,696,290,inf
+451933,Wheat Flour,Grocery & Staples,471,310,inf
+455083,Butter,Dairy & Breakfast,534,272,inf
+455755,Detergent,Household Care,488,314,inf
+461804,Sugar,Grocery & Staples,468,262,inf
+462526,Curd,Dairy & Breakfast,547,298,inf
+470449,Frozen Biryani,Instant & Frozen Food,447,276,inf
+473647,Toothpaste,Personal Care,333,308,inf
+473929,Carrots,Fruits & Vegetables,450,340,inf
+478531,Carrots,Fruits & Vegetables,550,300,inf
+481843,Chocolates,Snacks & Munchies,581,288,inf
+487065,Chips,Snacks & Munchies,519,270,inf
+487931,Sugar,Grocery & Staples,482,322,inf
+490602,Sugar,Grocery & Staples,898,300,inf
+490939,Lotion,Personal Care,597,312,inf
+491314,Ice Cream,Instant & Frozen Food,474,294,inf
+491521,Nuts,Snacks & Munchies,541,296,inf
+492958,Lotion,Personal Care,474,304,inf
+500633,Cereal,Dairy & Breakfast,484,292,inf
+500739,Bread,Dairy & Breakfast,461,302,inf
+513199,Cola,Cold Drinks & Juices,482,274,inf
+516376,Onions,Fruits & Vegetables,489,328,inf
+525531,Dog Food,Pet Care,678,296,inf
+532965,Frozen Pizza,Instant & Frozen Food,546,298,inf
+537274,Pet Treats,Pet Care,753,304,inf
+540618,Popcorn,Snacks & Munchies,530,316,inf
+542300,Popcorn,Snacks & Munchies,476,270,inf
+552496,Dish Soap,Household Care,436,306,inf
+552883,Potatoes,Fruits & Vegetables,542,294,inf
+555121,Carrots,Fruits & Vegetables,509,280,inf
+557908,Vitamins,Pharmacy,641,308,inf
+561860,Orange Juice,Cold Drinks & Juices,461,282,inf
+563740,Chips,Snacks & Munchies,523,322,inf
+564692,Cat Food,Pet Care,652,300,inf
+566052,Pain Reliever,Pharmacy,688,274,inf
+567671,Biscuits,Snacks & Munchies,520,304,inf
+578097,Nuts,Snacks & Munchies,549,304,inf
+585299,Pet Treats,Pet Care,693,288,inf
+587420,Cookies,Snacks & Munchies,470,308,inf
+587645,Vitamins,Pharmacy,605,302,inf
+589812,Detergent,Household Care,621,316,inf
+592784,Biscuits,Snacks & Munchies,460,314,inf
+600767,Toothpaste,Personal Care,491,278,inf
+602241,Nuts,Snacks & Munchies,532,310,inf
+604184,Toilet Cleaner,Household Care,700,322,inf
+606256,Frozen Biryani,Instant & Frozen Food,489,294,inf
+611575,Frozen Pizza,Instant & Frozen Food,498,302,inf
+613942,Pet Treats,Pet Care,698,268,inf
+615545,Soap,Personal Care,483,288,inf
+621677,Frozen Biryani,Instant & Frozen Food,426,300,inf
+623234,Frozen Biryani,Instant & Frozen Food,524,264,inf
+642612,Pet Treats,Pet Care,643,280,inf
+644847,Salt,Grocery & Staples,452,268,inf
+647462,Lotion,Personal Care,496,266,inf
+652118,Frozen Biryani,Instant & Frozen Food,559,282,inf
+654297,Potatoes,Fruits & Vegetables,525,306,inf
+654623,Chips,Snacks & Munchies,511,294,inf
+658389,Popcorn,Snacks & Munchies,516,318,inf
+659290,Cheese,Dairy & Breakfast,491,308,inf
+661577,Cat Food,Pet Care,673,306,inf
+667163,Orange Juice,Cold Drinks & Juices,466,302,inf
+669378,Potatoes,Fruits & Vegetables,571,272,inf
+672059,Toothpaste,Personal Care,544,306,inf
+673058,Cough Syrup,Pharmacy,641,316,inf
+677169,Cough Syrup,Pharmacy,733,278,inf
+677542,Toilet Cleaner,Household Care,737,298,inf
+679284,Cough Syrup,Pharmacy,697,304,inf
+679321,Cola,Cold Drinks & Juices,548,280,inf
+679865,Wheat Flour,Grocery & Staples,519,314,inf
+681063,Mango Drink,Cold Drinks & Juices,461,290,inf
+684939,Lotion,Personal Care,513,336,inf
+687218,Mango Drink,Cold Drinks & Juices,500,306,inf
+689769,Frozen Vegetables,Instant & Frozen Food,549,342,inf
+690565,Cookies,Snacks & Munchies,563,306,inf
+692985,Pulses,Grocery & Staples,464,344,inf
+697683,Toilet Cleaner,Household Care,726,322,inf
+700048,Dish Soap,Household Care,335,288,inf
+704868,Detergent,Household Care,441,320,inf
+706112,Vitamins,Pharmacy,629,282,inf
+707935,Cat Food,Pet Care,663,318,inf
+709916,Detergent,Household Care,295,324,inf
+712003,Cola,Cold Drinks & Juices,523,318,inf
+712307,Orange Juice,Cold Drinks & Juices,522,342,inf
+714999,Bread,Dairy & Breakfast,530,308,inf
+721521,Rice,Grocery & Staples,489,306,inf
+723678,Dog Food,Pet Care,606,342,inf
+726958,Cat Food,Pet Care,749,286,inf
+734789,Popcorn,Snacks & Munchies,567,298,inf
+739448,Dish Soap,Household Care,343,318,inf
+739534,Toilet Cleaner,Household Care,318,298,inf
+741341,Eggs,Dairy & Breakfast,522,304,inf
+747801,Toilet Cleaner,Household Care,498,312,inf
+753354,Shampoo,Personal Care,507,316,inf
+757274,Pet Treats,Pet Care,741,266,inf
+760684,Rice,Grocery & Staples,849,304,inf
+760828,Pet Treats,Pet Care,683,284,inf
+762527,Biscuits,Snacks & Munchies,483,290,inf
+764014,Salt,Grocery & Staples,507,248,inf
+767398,Dish Soap,Household Care,330,338,inf
+771228,Pet Treats,Pet Care,686,294,inf
+784673,Dog Food,Pet Care,706,316,inf
+784827,Baby Wipes,Baby Care,500,264,inf
+798639,Eggs,Dairy & Breakfast,460,286,inf
+799459,Vitamins,Pharmacy,643,296,inf
+799688,Lotion,Personal Care,541,296,inf
+799952,Cheese,Dairy & Breakfast,459,240,inf
+803607,Soap,Personal Care,507,292,inf
+807452,Pulses,Grocery & Staples,482,308,inf
+812607,Potatoes,Fruits & Vegetables,428,308,inf
+818522,Cheese,Dairy & Breakfast,459,308,inf
+818990,Tomatoes,Fruits & Vegetables,477,250,inf
+820541,Toilet Cleaner,Household Care,479,300,inf
+820973,Baby Wipes,Baby Care,502,332,inf
+832348,Biscuits,Snacks & Munchies,525,278,inf
+833557,Cereal,Dairy & Breakfast,474,292,inf
+837480,Cough Syrup,Pharmacy,759,262,inf
+839170,Curd,Dairy & Breakfast,491,302,inf
+847349,Potatoes,Fruits & Vegetables,501,314,inf
+848226,Tomatoes,Fruits & Vegetables,510,284,inf
+851978,Vitamins,Pharmacy,694,280,inf
+853932,Baby Wipes,Baby Care,511,350,inf
+859361,Shampoo,Personal Care,458,278,inf
+863930,Shampoo,Personal Care,351,282,inf
+871592,Carrots,Fruits & Vegetables,537,276,inf
+876139,Pulses,Grocery & Staples,798,330,inf
+880510,Bread,Dairy & Breakfast,449,322,inf
+883013,Eggs,Dairy & Breakfast,513,314,inf
+888807,Bread,Dairy & Breakfast,503,340,inf
+890232,Mango Drink,Cold Drinks & Juices,524,318,inf
+890623,Onions,Fruits & Vegetables,530,264,inf
+891833,Curd,Dairy & Breakfast,533,304,inf
+894539,Dish Soap,Household Care,343,298,inf
+897083,Detergent,Household Care,314,300,inf
+901144,Sugar,Grocery & Staples,574,286,inf
+903336,Pulses,Grocery & Staples,832,272,inf
+913428,Pet Treats,Pet Care,759,294,inf
+914071,Chips,Snacks & Munchies,508,314,inf
+925482,Frozen Biryani,Instant & Frozen Food,502,302,inf
+927651,Baby Wipes,Baby Care,597,356,inf
+930284,Baby Food,Baby Care,738,306,inf
+937542,Wheat Flour,Grocery & Staples,801,290,inf
+942001,Cat Food,Pet Care,732,338,inf
+945635,Pulses,Grocery & Staples,767,314,inf
+949818,Biscuits,Snacks & Munchies,501,306,inf
+951463,Pet Treats,Pet Care,712,302,inf
+952124,Onions,Fruits & Vegetables,477,320,inf
+952168,Popcorn,Snacks & Munchies,448,314,inf
+953175,Baby Food,Baby Care,726,316,inf
+954722,Ice Cream,Instant & Frozen Food,488,292,inf
+961614,Chocolates,Snacks & Munchies,519,288,inf
+962054,Orange Juice,Cold Drinks & Juices,511,280,inf
+962591,Orange Juice,Cold Drinks & Juices,514,270,inf
+965755,Bananas,Fruits & Vegetables,497,326,inf
+968887,Dish Soap,Household Care,358,298,inf
+969851,Frozen Vegetables,Instant & Frozen Food,490,320,inf
+970529,Diapers,Baby Care,553,280,inf
+990993,Chocolates,Snacks & Munchies,446,296,inf
+991434,Cookies,Snacks & Munchies,535,322,inf
+992178,Pain Reliever,Pharmacy,673,314,inf
+993331,Pulses,Grocery & Staples,459,304,inf

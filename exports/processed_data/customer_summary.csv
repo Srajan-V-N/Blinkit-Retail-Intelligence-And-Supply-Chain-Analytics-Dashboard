@@ -1,0 +1,5 @@
+customer_segment,customer_id,total_orders,avg_order_value
+Inactive,600,6350,1102.15
+New,628,6829,1116.6355573248409
+Premium,633,6452,1101.4739652448657
+Regular,639,6598,1089.467042253521

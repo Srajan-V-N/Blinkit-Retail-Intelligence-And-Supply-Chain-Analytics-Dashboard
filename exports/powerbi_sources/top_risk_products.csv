@@ -1,0 +1,51 @@
+product_id,date,stock_received,damaged_stock,product_name,category,brand,price,mrp,margin_percentage,shelf_life_days,min_stock_level,max_stock_level,damage_rate,inventory_health_score,reorder_flag,risk_score,risk_category,stock_gap,reorder_risk
+602241,17-03-2023,1,2,Nuts,Snacks & Munchies,Bahl-Pau,976.55,1502.38,35.0,90,12,75,2.0,-100.0,Reorder Needed,200.0,High Risk,11,1
+764014,09-11-2023,1,2,Salt,Grocery & Staples,"Grewal, Swamy and Dayal",612.04,720.05,15.0,365,30,100,2.0,-100.0,Reorder Needed,200.0,High Risk,29,1
+470449,09-11-2023,1,2,Frozen Biryani,Instant & Frozen Food,Kohli-Sawhney,827.77,1379.62,40.0,180,27,57,2.0,-100.0,Reorder Needed,200.0,High Risk,26,1
+473929,08-11-2023,1,2,Carrots,Fruits & Vegetables,"Bhardwaj, Bhatia and Deshmukh",440.19,586.92,25.0,3,19,70,2.0,-100.0,Reorder Needed,200.0,High Risk,18,1
+564692,07-11-2023,1,2,Cat Food,Pet Care,"Krishna, Bail and Dyal",215.65,331.77,35.0,365,25,82,2.0,-100.0,Reorder Needed,200.0,High Risk,24,1
+901144,17-06-2023,1,2,Sugar,Grocery & Staples,Deo-Kamdar,340.36,400.42,15.0,365,12,71,2.0,-100.0,Reorder Needed,200.0,High Risk,11,1
+451933,16-06-2023,1,2,Wheat Flour,Grocery & Staples,Nadig Ltd,568.94,669.34,15.0,365,28,98,2.0,-100.0,Reorder Needed,200.0,High Risk,27,1
+327290,16-06-2023,1,2,Sugar,Grocery & Staples,Nadkarni Inc,862.28,1014.45,15.0,365,22,65,2.0,-100.0,Reorder Needed,200.0,High Risk,21,1
+945635,16-06-2023,1,2,Pulses,Grocery & Staples,Balasubramanian PLC,778.9,916.35,15.0,365,16,59,2.0,-100.0,Reorder Needed,200.0,High Risk,15,1
+706112,08-11-2023,1,2,Vitamins,Pharmacy,"Magar, Gara and Garg",478.79,598.49,20.0,365,12,77,2.0,-100.0,Reorder Needed,200.0,High Risk,11,1
+700048,07-11-2023,1,2,Dish Soap,Household Care,Khalsa-Bhavsar,141.28,188.37,25.0,365,25,98,2.0,-100.0,Reorder Needed,200.0,High Risk,24,1
+589812,07-11-2023,1,2,Detergent,Household Care,Bir PLC,163.03,217.37,25.0,365,22,52,2.0,-100.0,Reorder Needed,200.0,High Risk,21,1
+89084,09-11-2023,1,2,Milk,Dairy & Breakfast,"Wali, Virk and Iyer",598.83,748.54,20.0,7,27,74,2.0,-100.0,Reorder Needed,200.0,High Risk,26,1
+767398,20-05-2023,1,2,Dish Soap,Household Care,"Arya, Sundaram and Pingle",22.14,29.52,25.0,365,15,57,2.0,-100.0,Reorder Needed,200.0,High Risk,14,1
+677542,20-05-2023,1,2,Toilet Cleaner,Household Care,Thaman-Lanka,212.61,283.48,25.0,365,10,52,2.0,-100.0,Reorder Needed,200.0,High Risk,9,1
+444361,19-05-2023,1,2,Pain Reliever,Pharmacy,"Prakash, Bawa and Kale",822.63,1028.29,20.0,365,20,71,2.0,-100.0,Reorder Needed,200.0,High Risk,19,1
+697683,09-11-2023,1,2,Toilet Cleaner,Household Care,"Murty, Varghese and Saxena",123.74,164.99,25.0,365,14,82,2.0,-100.0,Reorder Needed,200.0,High Risk,13,1
+53833,10-11-2023,1,2,Rice,Grocery & Staples,Tella-Master,134.69,158.46,15.0,365,26,89,2.0,-100.0,Reorder Needed,200.0,High Risk,25,1
+500633,07-11-2023,1,2,Cereal,Dairy & Breakfast,Trivedi-Ahluwalia,154.5,193.12,20.0,7,24,87,2.0,-100.0,Reorder Needed,200.0,High Risk,23,1
+587645,19-05-2023,1,2,Vitamins,Pharmacy,"Sura, Pillay and Mammen",801.81,1002.26,20.0,365,18,90,2.0,-100.0,Reorder Needed,200.0,High Risk,17,1
+455755,10-11-2023,1,2,Detergent,Household Care,Mangal-Sathe,44.09,58.79,25.0,365,23,53,2.0,-100.0,Reorder Needed,200.0,High Risk,22,1
+490602,11-11-2023,1,2,Sugar,Grocery & Staples,Raghavan Inc,549.47,646.44,15.0,365,20,71,2.0,-100.0,Reorder Needed,200.0,High Risk,19,1
+969851,06-11-2023,1,2,Frozen Vegetables,Instant & Frozen Food,"Kara, Sodhi and Bassi",340.66,567.77,40.0,180,27,64,2.0,-100.0,Reorder Needed,200.0,High Risk,26,1
+784827,20-05-2023,1,2,Baby Wipes,Baby Care,Balakrishnan Ltd,274.25,391.79,30.0,365,26,77,2.0,-100.0,Reorder Needed,200.0,High Risk,25,1
+833557,05-11-2023,1,2,Cereal,Dairy & Breakfast,"Gole, Chand and Dada",422.87,528.59,20.0,7,27,69,2.0,-100.0,Reorder Needed,200.0,High Risk,26,1
+589812,06-11-2023,1,2,Detergent,Household Care,Bir PLC,163.03,217.37,25.0,365,22,52,2.0,-100.0,Reorder Needed,200.0,High Risk,21,1
+606256,11-11-2023,1,2,Frozen Biryani,Instant & Frozen Food,Agate Ltd,369.28,615.47,40.0,180,16,57,2.0,-100.0,Reorder Needed,200.0,High Risk,15,1
+965755,12-11-2023,1,2,Bananas,Fruits & Vegetables,"Doshi, Sarraf and Sama",532.57,710.09,25.0,3,21,91,2.0,-100.0,Reorder Needed,200.0,High Risk,20,1
+604184,10-11-2023,1,2,Toilet Cleaner,Household Care,"Gaba, Sodhi and Choudhary",397.55,530.07,25.0,365,24,84,2.0,-100.0,Reorder Needed,200.0,High Risk,23,1
+124290,11-11-2023,1,2,Lotion,Personal Care,Sachdev Group,39.65,61.0,35.0,365,23,71,2.0,-100.0,Reorder Needed,200.0,High Risk,22,1
+589812,11-11-2023,1,2,Detergent,Household Care,Bir PLC,163.03,217.37,25.0,365,22,52,2.0,-100.0,Reorder Needed,200.0,High Risk,21,1
+697683,19-05-2023,1,2,Toilet Cleaner,Household Care,"Murty, Varghese and Saxena",123.74,164.99,25.0,365,14,82,2.0,-100.0,Reorder Needed,200.0,High Risk,13,1
+747801,11-11-2023,1,2,Toilet Cleaner,Household Care,Saha-Vora,277.76,370.35,25.0,365,23,71,2.0,-100.0,Reorder Needed,200.0,High Risk,22,1
+604184,05-11-2023,1,2,Toilet Cleaner,Household Care,"Gaba, Sodhi and Choudhary",397.55,530.07,25.0,365,24,84,2.0,-100.0,Reorder Needed,200.0,High Risk,23,1
+131136,12-11-2023,1,2,Salt,Grocery & Staples,Deshpande-Rama,37.8,44.47,15.0,365,29,95,2.0,-100.0,Reorder Needed,200.0,High Risk,28,1
+760684,18-06-2023,1,2,Rice,Grocery & Staples,Kanda-Gupta,71.6,84.24,15.0,365,14,64,2.0,-100.0,Reorder Needed,200.0,High Risk,13,1
+240179,04-11-2023,1,2,Cough Syrup,Pharmacy,Ram-Suri,90.56,113.2,20.0,365,20,56,2.0,-100.0,Reorder Needed,200.0,High Risk,19,1
+876139,13-11-2023,1,2,Pulses,Grocery & Staples,Cherian-Dara,415.75,489.12,15.0,365,14,83,2.0,-100.0,Reorder Needed,200.0,High Risk,13,1
+689769,13-11-2023,1,2,Frozen Vegetables,Instant & Frozen Food,Kothari-Datta,46.62,77.7,40.0,180,17,51,2.0,-100.0,Reorder Needed,200.0,High Risk,16,1
+376447,14-11-2023,1,2,Butter,Dairy & Breakfast,Gara and Sons,724.84,906.05,20.0,7,17,64,2.0,-100.0,Reorder Needed,200.0,High Risk,16,1
+897083,13-11-2023,1,2,Detergent,Household Care,Dutta-Halder,972.69,1296.92,25.0,365,10,100,2.0,-100.0,Reorder Needed,200.0,High Risk,9,1
+14145,04-11-2023,1,2,Spinach,Fruits & Vegetables,"Thakur, Shah and Pingle",630.84,841.12,25.0,3,14,53,2.0,-100.0,Reorder Needed,200.0,High Risk,13,1
+888807,19-05-2023,1,2,Bread,Dairy & Breakfast,Arya Group,230.58,288.23,20.0,7,13,91,2.0,-100.0,Reorder Needed,200.0,High Risk,12,1
+324809,14-11-2023,1,2,Bread,Dairy & Breakfast,Sidhu PLC,608.0,760.0,20.0,7,26,76,2.0,-100.0,Reorder Needed,200.0,High Risk,25,1
+490602,15-11-2023,1,2,Sugar,Grocery & Staples,Raghavan Inc,549.47,646.44,15.0,365,20,71,2.0,-100.0,Reorder Needed,200.0,High Risk,19,1
+961614,15-11-2023,1,2,Chocolates,Snacks & Munchies,Goda Inc,227.22,349.57,35.0,90,26,99,2.0,-100.0,Reorder Needed,200.0,High Risk,25,1
+807452,03-11-2023,1,2,Pulses,Grocery & Staples,Naik Ltd,144.19,169.64,15.0,365,27,61,2.0,-100.0,Reorder Needed,200.0,High Risk,26,1
+697683,02-11-2023,1,2,Toilet Cleaner,Household Care,"Murty, Varghese and Saxena",123.74,164.99,25.0,365,14,82,2.0,-100.0,Reorder Needed,200.0,High Risk,13,1
+753354,15-11-2023,1,2,Shampoo,Personal Care,Sant-Mahajan,423.56,651.63,35.0,365,20,52,2.0,-100.0,Reorder Needed,200.0,High Risk,19,1
+171602,16-11-2023,1,2,Cola,Cold Drinks & Juices,Pal-Sehgal,883.44,1262.06,30.0,180,28,58,2.0,-100.0,Reorder Needed,200.0,High Risk,27,1
